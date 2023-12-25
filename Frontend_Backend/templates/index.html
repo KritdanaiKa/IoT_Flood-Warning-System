@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>แจ้งเตือนอุทกภัย</title>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.1/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mqtt/5.2.2/mqtt.min.js"
+        integrity="sha512-I8gBERqrEkyDqbjHj3aymzBVIPFs85vGSzy26+1P5weHzFp8vfJ8dARJz51n3oQ80DTdYn8MbhUiz5UAW2rMxw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+
+<body class="bg-light">
+    <div class="container mt-4">
+        <h1 class="text-center text-primary mb-4">ระบบแจ้งเตือนอุทกภัย</h1>
+        <div class="card text-center">
+            <div class="card-header">
+                <ul class="nav nav-tabs card-header-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="true" onclick="showSensor(event)">ระดับน้ำในแม่น้ำ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" onclick="showgraph(event)">แผนภูมิระดับน้ำ</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="card-body" id="waterlavelCardBody">
+                <!-- Card for water level -->
+                <div class="card mb-3">
+                    
+                    <div class="card-body">
+                        <h5 class="card-title">ระดับน้ำในแม่น้ำ</h5>
+                        <p class="card-text">ความสูงของน้ำ: <span id="lwater"></span> เซนติเมตร</p>
+                        <p class="card-text">เกณฑ์: <span id="llavel"></span></p>
+                        <div class="progress">
+                            <div id="waterProgressBar" class="progress-bar progress-bar-striped" role="progressbar" style="width: 0%;"
+                                aria-valuenow="0" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                        <div class="col text-center">
+                            <p class="card-text">ข้อมูลล่าสุดเมื่อ <span id="currentTime1"></span></p>
+                        </div>
+                        <div id="accordion" style="margin-top: 20px;">
+                            <div class="accordion" id="accordionExample">
+                                <div class="accordion-item" id="accordionItem">
+                                    <h2 class="accordion-header" id="accordionHeader">
+                                        <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                            data-bs-target="#collapseExample" aria-expanded="true" aria-controls="collapseExample">
+                                            คำแนะนำ
+                                        </button>
+                                    </h2>
+                                    <div id="collapseExample" class="accordion-collapse collapse" aria-labelledby="accordionHeader"
+                                        data-bs-parent="#accordionExample">
+                                        <div class="accordion-body">
+                                            ให้อพยพเคลื่อนย้ายทรัพย์สินในที่สูง และ ให้อาศัยอยู่ในสถานที่ปลอดภัย และปฏิบัติตามข้อสั่งการ
+                                            ติดต่อเทศบาล : 0-7552-2785
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body" id="graphCardBody" style="display: none;">
+                <!-- Card for water level graph -->
+                <div class="card">
+                    
+                    <div class="card-body">
+                        <h5 class="card-title text-center">แผนภูมิระดับน้ำ</h5>
+                        <div class="row">
+                            <div class="col-10 mx-auto">
+                                <canvas id="chartwater" width="400" height="200"></canvas>
+                            </div>
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col text-center">
+                                <p class="card-text">ข้อมูลล่าสุดเมื่อ <span id="currentTime"></span></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-2.2.4.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.0/dist/chart.min.js"></script>
+</body>
+<script>
+    $(() => {
+        get_json()
+        get_Time()
+    })
+
+    let get_Time = () => {
+            const monthNames = [
+                "มกราคม", "กุมภาพันธ์", "มีนาคม",
+                "เมษายน", "พฤษภาคม", "มิถุนายน",
+                "กรกฎาคม", "สิงหาคม", "กันยายน",
+                "ตุลาคม", "พฤศจิกายน", "ธันวาคม"
+            ];
+
+            const currentDate = new Date();
+            const currentYear = currentDate.getFullYear() + 543; // Convert to Thai calendar
+            const currentMonth = monthNames[currentDate.getMonth()];
+            const currentDay = currentDate.getDate();
+            const currentHour = currentDate.getHours();
+            const currentMinute = currentDate.getMinutes();
+            const currentSecond = currentDate.getSeconds();
+
+            const currentTimeString = `${currentDay} ${currentMonth} พ.ศ. ${currentYear} เวลา ${currentHour}:${currentMinute}:${currentSecond}`;
+            const currentTimeSpan = document.getElementById("currentTime");
+            currentTimeSpan.textContent = currentTimeString;
+            const currentTimeSpan1 = document.getElementById("currentTime1");
+        currentTimeSpan1.textContent = currentTimeString;
+            console.log(`วันที่และเวลาปัจจุบัน: ${currentDay} ${currentMonth} พ.ศ. ${currentYear} เวลา ${currentHour}:${currentMinute}:${currentSecond}`);
+        }
+
+
+    function showSensor(event) {
+        event.preventDefault();
+        $('#waterlavelCardBody').show();
+        $('#graphCardBody').hide();
+        // เปลี่ยนคลาส active
+        $('.nav-link').removeClass('active');
+        $(event.target).addClass('active');
+    }
+
+    function showgraph(event) {
+        event.preventDefault();
+        $('#waterlavelCardBody').hide();
+        $('#graphCardBody').show();
+        // เปลี่ยนคลาส active
+        $('.nav-link').removeClass('active');
+        $(event.target).addClass('active');
+    }
+
+    
+
+    let get_json = () => {
+        let url = "http://192.168.152.211:5000/nodemcu/last";
+        fetch(url)
+            .then(response => response.json())
+            .then(json => {
+                console.log(json);
+                const lastSonic = json[0]
+                console.log(lastSonic);
+                const jsonObject = JSON.parse(lastSonic["message"]);
+                console.log(jsonObject);
+                $('#lwater').text(jsonObject["waterlavel"]);
+                const wLavel_Now = Number(jsonObject["waterlavel"]);
+                var danger = 0;
+                if (wLavel_Now >= 181) {
+                    danger = 4;
+                    $('#llavel').text("มีความเสี่ยงอันตรายสูงสุด").css('color', 'red').css('font-weight', 'bold').css('text-shadow', '2px 2px 4px rgba(0, 0, 0, 0.5)');
+                } else if (wLavel_Now >= 151) {
+                    danger = 3;
+                    $('#llavel').text("มีความเสี่ยงอันตราย").css('color', 'orange').css('font-weight', 'bold').css('text-shadow', '2px 2px 4px rgba(0, 0, 0, 0.5)').css('background-color', 'black');
+                } else if (wLavel_Now >= 131) {
+                    danger = 2;
+                    $('#llavel').text("ปานกลาง").css('color', 'yellow').css('font-weight', 'bold').css('text-shadow', '2px 2px 4px rgba(0, 0, 0, 0.5)').css('background-color', 'black');
+                } else {
+                    danger = 1;
+                    $('#llavel').text("ปกติ").css('color', 'green').css('font-weight', 'bold').css('text-shadow', '2px 2px 4px rgba(0, 0, 0, 0.5)');
+                }
+
+                const progressBarValue = danger * 25;
+                $('#waterProgressBar').css('width', progressBarValue + '%');
+                $('#waterProgressBar').attr('aria-valuenow', progressBarValue);
+                if (progressBarValue > 75) {
+                    $('#waterProgressBar').css('background', 'linear-gradient(to right, white, green, yellow, orange, red)');
+                } else if (progressBarValue > 50) {
+                    $('#waterProgressBar').css('background', 'linear-gradient(to right, white, green, yellow, orange)');
+                } else if (progressBarValue > 25) {
+                    $('#waterProgressBar').css('background', 'linear-gradient(to right, white, green, yellow)');
+                } else {
+                    $('#waterProgressBar').css('background', 'linear-gradient(to right, white, green)');
+                }
+                var ctxwater = $("#chartwater");
+                var xlabel = []
+                var datawater = [];
+                json.forEach(element => {
+                    var elementthis = JSON.parse(element["message"])
+                    var idthis = JSON.parse(element["id"])
+                    xlabel.unshift(idthis);
+                    datawater.unshift(elementthis["waterlavel"]);
+                });
+                console.log(datawater);
+                var ChartW = new Chart(ctxwater, {
+                    type: 'line',
+                    data: {
+                        labels: xlabel,
+                        datasets: [{
+                            
+                            borderColor: '#36A2EB',
+                            label: "ระดับน้ำ",
+                            data: datawater
+                        }]
+                    }
+                });
+                if (danger === 3 || danger === 4) {
+                    $('#accordion').show();
+                } else {
+                    $('#accordion').hide();
+                }
+            });
+    }
+
+    
+
+</script>
+
+</html>
