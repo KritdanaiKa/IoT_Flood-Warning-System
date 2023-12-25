@@ -55,19 +55,19 @@
 | id  | รหัสของระดับน้ำที่บันทึก  | int  |  1 |
 | message  | ระดับน้ำในแม่น้ำ/คลอง | String  |  {\"waterlavel\":213.550000} |
 
-# การพัฒนาระบบ
-## Board
+## การพัฒนาระบบ
+### Board
 1. Arduino UNO ทำหน้าที่รับค่าและประมวลผลค่าระยะทางจากเซนเซอร์ Ultrasonic Sensor Module HC-SR04 และส่งค่าไปยัง Serial และส่งค่าไปยัง LCD
 2. ESP8266 ทำหน้าที่รับค่าจาก Serial และส่งข้อมูลไปยัง MQTT Broker 
-## Sensors
+### Sensors
 1. Ultrasonic Sensor Module HC-SR04 ทำหน้าที่ในการรับค่าระยะห่างระหว่างเซนเซอร์และวัตถุ
-## เครื่องมือ
+### เครื่องมือ
 1. ภาษา C ใช้ในการเขียนคำสั่งลงในบอร์ด เพื่อทำให้บอร์ดสามารถรับค่าและส่งค่าข้อมูลได้
 2. MQTT Broker ใช้เป็นตัวกลางในการรับข้อมูลจาก Node MCU และส่งไปยัง JSON Server
 3. JavaScript ใช้ในการควบคุมฟังก์ชันของ Frontend และส่ง Web API ไปยัง Flask service
 4. HTML ใช้ในการแสดงผลข้อมูลแก่ผู้ใช้
 5. Python : Flask ใช้สำหรับเป็น Web API ในการรับข้อมูลจาก JavaScript ไปยัง JSON Server และ MQTT เป็น Framework ในการเชื่อมต่อ IoT ขึ้นเว็บไซต์ สำหรับดึงข้อมูลจาก JSON Server ร่วมกับส่งค่าสถานะไปยังบอร์ด เพื่อแจ้งเตือนผ่านแอปพลิเคชันไลน์และเว็บไซต์
-## ไลบารี
+### ไลบารี
 1. Wire.h: ใช้สำหรับการสื่อสารผ่าน I2C (Inter-Integrated Circuit) ซึ่งเป็นโปรโตคอลการสื่อสารระหว่างอุปกรณ์ในระบบที่เชื่อมต่อกันผ่านสายสัญญาณสองเส้น (SDA - Serial Data Line และ SCL - Serial Clock Line)
 2. LiquidCrystal_I2C: ใช้สำหรับการควบคุมการทำงานของหน้าจอ LCD (Liquid Crystal Display) ที่เชื่อมต่อผ่าน I2C. ช่วยในการแสดงข้อความหรือตัวเลขบนหน้าจอ LCD อย่างสะดวก
 3. ESP8266WiFi: ใช้สำหรับการเชื่อมต่อ WiFi ของ ESP8266 (เช่น NodeMCU) เพื่อทำให้ไมโครคอนโทรลเลอร์สามารถเข้าถึงเครือข่ายไร้สายได้
@@ -75,9 +75,9 @@
 5. PubSubClient: เป็นไลบรารีที่ใช้สำหรับการเข้ารหัสและถอดรหัสข้อมูลที่ส่งผ่าน MQTT (Message Queuing Telemetry Transport) protocol. ช่วยในการเชื่อมต่อและสื่อสารกับโมโนทคอนโทรลเลอร์ที่รองรับ MQTT
 6. HCSR04: ใช้สำหรับติดต่อกับเซนเซอร์วัดระยะทาง Ultrasonic (HCSR04) เพื่อวัดระยะทางด้วยคลื่นเสียง ultrasonic และได้ค่าระยะทางออกมา
 
-# การทดสอบ
+## การทดสอบ
 จากภาพข้างต้นเป็นภาพที่ใช้ในการทดสอบ
-## 1. Test Case #1 
+### 1. Test Case #1 
 ![Test](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/Test1.jpg)
 
 ทำการทดสอบด้วยการติดตั้งชุดเซ็นเซอร์จากนั้นจำลองกระทงเป็นทุ่นลอยน้ำ วางในระยะที่ 1  ซึ่งมีระดับน้ำไม่เกิน 1.30 เมตร 
@@ -86,7 +86,7 @@
 ![Webpage](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%81%E0%B8%95%E0%B8%B4.jpg)
 ![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3699.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 1 
-## 2. Test Case #2 
+### 2. Test Case #2 
 ![Test](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/Test2.jpg)
 
 ทำการทดสอบด้วยการติดตั้งชุดเซ็นเซอร์จากนั้นจำลองกระทงเป็นทุ่นลอยน้ำ วางในระยะที่ 2  ซึ่งมีระดับน้ำตั้งแต่ 1.30 - 1.50 เมตร 
@@ -95,7 +95,7 @@
 ![Webpage](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87.jpg)
 ![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3700.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 2
-## 3. Test Case #3 
+### 3. Test Case #3 
 ![Test](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/Test3.jpg)
 
 ทำการทดสอบด้วยการติดตั้งชุดเซ็นเซอร์จากนั้นจำลองกระทงเป็นทุ่นลอยน้ำ วางในระยะที่ 3 ซึ่งมีระดับน้ำตั้งแต่ 1.51 - 1.80 เมตร 
@@ -104,7 +104,7 @@
 ![Webpage](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2.jpg)
 ![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3701.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 3
-## 4. Test Case #4 
+### 4. Test Case #4 
 ![Test](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/Test4.jpg)
 
 ทำการทดสอบด้วยการติดตั้งชุดเซ็นเซอร์จากนั้นจำลองกระทงเป็นทุ่นลอยน้ำ วางในระยะที่  4  ซึ่งมีระดับน้ำตั้งแต่ 1.81 ขึ้นไป
@@ -113,7 +113,7 @@
 ![Webpage](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94.jpg)
 ![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3702.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 4
-## 5. Test Case #5
+### 5. Test Case #5
 ![Test](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/Test5.jpg)
 
 ทำการทดสอบด้วยการติดตั้งชุดเซ็นเซอร์จากนั้นจำลองกระทงเป็นทุ่นลอยน้ำ จากระดับน้ำในระดับที่ 4 ซึ่งมีระดับน้ำตั้งแต่ 1.81 ขึ้นไป กลับไปวางในระยะที่ 1  ซึ่งมีระดับน้ำตั้งแต่ 1.31 - 1.50 เมตร 
@@ -124,7 +124,7 @@
 ![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3703.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 5
 
-# สรุปผลการทดสอบ
+## สรุปผลการทดสอบ
 จากผลการทดลองทั้ง 5 กรณีตามการทดสอบข้างต้น พบว่าตรงตามวัตุประสงค์ที่ตั้งไว้ โดย Arduino UNO สามารถรับค่าจาก Ultrasonic Sensor แล้วจึงส่งค่าไปยัง MQTT Broker ได้เพื่อนำข้อมูลไปเก็บไว้ยัง JSON Server และ ผ่านทาง Line Notify หลังจากนั้น Flask Service จะทำการดึงข้อมูลจาก JSON Server เพื่อนำไปแสดงผ่านหน้าเว็บไซต์ได้ โดยเว็บไซต์สามารถแสดงข้อมูล เวลาปัจจุบัน ระดับน้ำ ระดับความเสี่ยง คำแนะนำ และกราฟแสดงระดับในแต่ละวันได้ตามเกณฑ์ที่กำหนดไว้ได้
-# Demo
+## Demo
 [![IoT_Flood-Warning-System](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%9B%E0%B8%81%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%9B.jpg)](https://youtu.be/fT4qFuj1Mpk?si=399r6q4nWpxpzUuR)
