@@ -81,28 +81,28 @@
 
 ผลการทดสอบครั้งที่ 1 
 ![Webpage](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%81%E0%B8%95%E0%B8%B4.jpg)
-![Line]()
+![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3699.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 1 
 ## 2. Test Case #2 
 ทำการทดสอบด้วยการติดตั้งชุดเซ็นเซอร์จากนั้นจำลองกระทงเป็นทุ่นลอยน้ำ วางในระยะที่ 2  ซึ่งมีระดับน้ำตั้งแต่ 1.30 - 1.50 เมตร 
 
 ผลการทดสอบครั้งที่ 2
 ![Webpage](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87.jpg)
-![Line]()
+![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3700.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 2
 ## 3. Test Case #3 
 ทำการทดสอบด้วยการติดตั้งชุดเซ็นเซอร์จากนั้นจำลองกระทงเป็นทุ่นลอยน้ำ วางในระยะที่ 3 ซึ่งมีระดับน้ำตั้งแต่ 1.51 - 1.80 เมตร 
 
 ผลการทดสอบครั้งที่ 3
 ![Webpage](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2.jpg)
-![Line]()
+![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3701.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 3
 ## 4. Test Case #4 
 ทำการทดสอบด้วยการติดตั้งชุดเซ็นเซอร์จากนั้นจำลองกระทงเป็นทุ่นลอยน้ำ วางในระยะที่  4  ซึ่งมีระดับน้ำตั้งแต่ 1.81 ขึ้นไป
 
 ผลการทดสอบครั้งที่ 4
 ![Webpage](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94.jpg)
-![Line]()
+![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3702.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 4
 ## 5. Test Case #5
 ทำการทดสอบด้วยการติดตั้งชุดเซ็นเซอร์จากนั้นจำลองกระทงเป็นทุ่นลอยน้ำ จากระดับน้ำในระดับที่ 4 ซึ่งมีระดับน้ำตั้งแต่ 1.81 ขึ้นไป กลับไปวางในระยะที่ 1  ซึ่งมีระดับน้ำตั้งแต่ 1.31 - 1.50 เมตร 
@@ -110,7 +110,7 @@
 ผลการทดสอบครั้งที่ 5
 ![Web](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%81%E0%B8%95%E0%B8%B4.jpg)
 ![Webpage_Graph](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B9%89%E0%B8%B3.jpg)
-![Line]()
+![Line](https://github.com/KritdanaiKa/IoT_Flood-Warning-System/blob/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A/IMG_3703.jpg)
 ภาพผลลัพธ์การแสดงผลระดับน้ำระดับที่ 5
 
 # สรุปผลการทดสอบ
