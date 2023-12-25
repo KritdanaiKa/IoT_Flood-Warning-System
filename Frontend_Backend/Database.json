@@ -1,0 +1,5416 @@
+{
+  "water_level": [
+    {
+      "message": "{\"waterlavel\":2.130000}",
+      "id": 1
+    },
+    {
+      "message": "{\"waterlavel\":1.650000}",
+      "id": 2
+    },
+    {
+      "message": "{\"waterlavel\":1.580000}",
+      "id": 3
+    },
+    {
+      "message": "{\"waterlavel\":0.820000}",
+      "id": 4
+    },
+    {
+      "message": "{\"waterlavel\":213.550000}",
+      "id": 5
+    },
+    {
+      "message": "{\"waterlavel\":211.150000}",
+      "id": 6
+    },
+    {
+      "message": "{\"waterlavel\":0.820000}",
+      "id": 7
+    },
+    {
+      "message": "{\"waterlavel\":1.230000}",
+      "id": 8
+    },
+    {
+      "message": "{\"waterlavel\":1.230000}",
+      "id": 9
+    },
+    {
+      "message": "{\"waterlavel\":1.650000}",
+      "id": 10
+    },
+    {
+      "message": "{\"waterlavel\":2.060000}",
+      "id": 11
+    },
+    {
+      "message": "{\"waterlavel\":1.230000}",
+      "id": 12
+    },
+    {
+      "message": "{\"waterlavel\":1.650000}",
+      "id": 13
+    },
+    {
+      "message": "{\"waterlavel\":1.990000}",
+      "id": 14
+    },
+    {
+      "message": "{\"waterlavel\":0.820000}",
+      "id": 15
+    },
+    {
+      "message": "{\"waterlavel\":1.170000}",
+      "id": 16
+    },
+    {
+      "message": "{\"waterlavel\":0.000000}",
+      "id": 17
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 18
+    },
+    {
+      "message": "{\"waterlavel\":0.820000}",
+      "id": 19
+    },
+    {
+      "message": "{\"waterlavel\":213.620000}",
+      "id": 20
+    },
+    {
+      "message": "{\"waterlavel\":213.550000}",
+      "id": 21
+    },
+    {
+      "message": "{\"waterlavel\":1.580000}",
+      "id": 22
+    },
+    {
+      "message": "{\"waterlavel\":1.990000}",
+      "id": 23
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 24
+    },
+    {
+      "message": "{\"waterlavel\":1.170000}",
+      "id": 25
+    },
+    {
+      "message": "{\"waterlavel\":1.230000}",
+      "id": 26
+    },
+    {
+      "message": "{\"waterlavel\":0.820000}",
+      "id": 27
+    },
+    {
+      "message": "{\"waterlavel\":1.990000}",
+      "id": 28
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 29
+    },
+    {
+      "message": "{\"waterlavel\":1.650000}",
+      "id": 30
+    },
+    {
+      "message": "{\"waterlavel\":2.060000}",
+      "id": 31
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 32
+    },
+    {
+      "message": "{\"waterlavel\":1.580000}",
+      "id": 33
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 34
+    },
+    {
+      "message": "{\"waterlavel\":1.920000}",
+      "id": 35
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 36
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 37
+    },
+    {
+      "message": "{\"waterlavel\":1.990000}",
+      "id": 38
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 39
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 40
+    },
+    {
+      "message": "{\"waterlavel\":1.580000}",
+      "id": 41
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 42
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 43
+    },
+    {
+      "message": "{\"waterlavel\":2.330000}",
+      "id": 44
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 45
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 46
+    },
+    {
+      "message": "{\"waterlavel\":1.990000}",
+      "id": 47
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 48
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 49
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 50
+    },
+    {
+      "message": "{\"waterlavel\":3.570000}",
+      "id": 51
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 52
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 53
+    },
+    {
+      "message": "{\"waterlavel\":1.580000}",
+      "id": 54
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 55
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 56
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 57
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 58
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 59
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 60
+    },
+    {
+      "message": "{\"waterlavel\":3.640000}",
+      "id": 61
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 62
+    },
+    {
+      "message": "{\"waterlavel\":1.990000}",
+      "id": 63
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 64
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 65
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 66
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 67
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 68
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 69
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 70
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 71
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 72
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 73
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 74
+    },
+    {
+      "message": "{\"waterlavel\":2.810000}",
+      "id": 75
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 76
+    },
+    {
+      "message": "{\"waterlavel\":2.400000}",
+      "id": 77
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 78
+    },
+    {
+      "message": "{\"waterlavel\":3.640000}",
+      "id": 79
+    },
+    {
+      "message": "{\"waterlavel\":3.360000}",
+      "id": 80
+    },
+    {
+      "message": "{\"waterlavel\":2.810000}",
+      "id": 81
+    },
+    {
+      "message": "{\"waterlavel\":2.060000}",
+      "id": 82
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 83
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 84
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 85
+    },
+    {
+      "message": "{\"waterlavel\":2.470000}",
+      "id": 86
+    },
+    {
+      "message": "{\"waterlavel\":216.360000}",
+      "id": 87
+    },
+    {
+      "message": "{\"waterlavel\":214.440000}",
+      "id": 88
+    },
+    {
+      "message": "{\"waterlavel\":2.060000}",
+      "id": 89
+    },
+    {
+      "message": "{\"waterlavel\":2.880000}",
+      "id": 90
+    },
+    {
+      "message": "{\"waterlavel\":3.290000}",
+      "id": 91
+    },
+    {
+      "message": "{\"waterlavel\":3.290000}",
+      "id": 92
+    },
+    {
+      "message": "{\"waterlavel\":3.290000}",
+      "id": 93
+    },
+    {
+      "message": "{\"waterlavel\":3.220000}",
+      "id": 94
+    },
+    {
+      "message": "{\"waterlavel\":3.290000}",
+      "id": 95
+    },
+    {
+      "message": "{\"waterlavel\":3.640000}",
+      "id": 96
+    },
+    {
+      "message": "{\"waterlavel\":2.470000}",
+      "id": 97
+    },
+    {
+      "message": "{\"waterlavel\":2.810000}",
+      "id": 98
+    },
+    {
+      "message": "{\"waterlavel\":3.360000}",
+      "id": 99
+    },
+    {
+      "message": "{\"waterlavel\":6.040000}",
+      "id": 100
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 101
+    },
+    {
+      "message": "{\"waterlavel\":5.630000}",
+      "id": 102
+    },
+    {
+      "message": "{\"waterlavel\":5.630000}",
+      "id": 103
+    },
+    {
+      "message": "{\"waterlavel\":5.630000}",
+      "id": 104
+    },
+    {
+      "message": "{\"waterlavel\":5.630000}",
+      "id": 105
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 106
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 107
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 108
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 109
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 110
+    },
+    {
+      "message": "{\"waterlavel\":5.970000}",
+      "id": 111
+    },
+    {
+      "message": "{\"waterlavel\":5.630000}",
+      "id": 112
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 113
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 114
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 115
+    },
+    {
+      "message": "{\"waterlavel\":6.040000}",
+      "id": 116
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 117
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 118
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 119
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 120
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 121
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 122
+    },
+    {
+      "message": "{\"waterlavel\":5.630000}",
+      "id": 123
+    },
+    {
+      "message": "{\"waterlavel\":214.790000}",
+      "id": 124
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 125
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 126
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 127
+    },
+    {
+      "message": "{\"waterlavel\":67.980000}",
+      "id": 128
+    },
+    {
+      "message": "{\"waterlavel\":217.530000}",
+      "id": 129
+    },
+    {
+      "message": "{\"waterlavel\":219.110000}",
+      "id": 130
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 131
+    },
+    {
+      "message": "{\"waterlavel\":5.970000}",
+      "id": 132
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 133
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 134
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 135
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 136
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 137
+    },
+    {
+      "message": "{\"waterlavel\":5.630000}",
+      "id": 138
+    },
+    {
+      "message": "{\"waterlavel\":3.570000}",
+      "id": 139
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 140
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 141
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 142
+    },
+    {
+      "message": "{\"waterlavel\":5.970000}",
+      "id": 143
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 144
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 145
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 146
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 147
+    },
+    {
+      "message": "{\"waterlavel\":3.570000}",
+      "id": 148
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 149
+    },
+    {
+      "message": "{\"waterlavel\":2.740000}",
+      "id": 150
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 151
+    },
+    {
+      "message": "{\"waterlavel\":217.940000}",
+      "id": 152
+    },
+    {
+      "message": "{\"waterlavel\":217.940000}",
+      "id": 153
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 154
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 155
+    },
+    {
+      "message": "{\"waterlavel\":6.040000}",
+      "id": 156
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 157
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 158
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 159
+    },
+    {
+      "message": "{\"waterlavel\":5.630000}",
+      "id": 160
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 161
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 162
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 163
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 164
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 165
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 166
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 167
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 168
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 169
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 170
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 171
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 172
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 173
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 174
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 175
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 176
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 177
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 178
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 179
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 180
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 181
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 182
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 183
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 184
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 185
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 186
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 187
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 188
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 189
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 190
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 191
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 192
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 193
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 194
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 195
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 196
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 197
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 198
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 199
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 200
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 201
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 202
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 203
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 204
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 205
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 206
+    },
+    {
+      "message": "{\"waterlavel\":3.160000}",
+      "id": 207
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 208
+    },
+    {
+      "message": "{\"waterlavel\":5.560000}",
+      "id": 209
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 210
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 211
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 212
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 213
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 214
+    },
+    {
+      "message": "{\"waterlavel\":4.460000}",
+      "id": 215
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 216
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 217
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 218
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 219
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 220
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 221
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 222
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 223
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 224
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 225
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 226
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 227
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 228
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 229
+    },
+    {
+      "message": "{\"waterlavel\":3.570000}",
+      "id": 230
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 231
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 232
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 233
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 234
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 235
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 236
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 237
+    },
+    {
+      "message": "{\"waterlavel\":2.810000}",
+      "id": 238
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 239
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 240
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 241
+    },
+    {
+      "message": "{\"waterlavel\":4.320000}",
+      "id": 242
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 243
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 244
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 245
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 246
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 247
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 248
+    },
+    {
+      "message": "{\"waterlavel\":4.390000}",
+      "id": 249
+    },
+    {
+      "message": "{\"waterlavel\":4.320000}",
+      "id": 250
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 251
+    },
+    {
+      "message": "{\"waterlavel\":5.150000}",
+      "id": 252
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 253
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 254
+    },
+    {
+      "message": "{\"waterlavel\":4.730000}",
+      "id": 255
+    },
+    {
+      "message": "{\"waterlavel\":4.800000}",
+      "id": 256
+    },
+    {
+      "message": "{\"waterlavel\":3.980000}",
+      "id": 257
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 258
+    },
+    {
+      "message": "{\"waterlavel\":219.520000}",
+      "id": 259
+    },
+    {
+      "message": "{\"waterlavel\":218.290000}",
+      "id": 260
+    },
+    {
+      "message": "{\"waterlavel\":5.210000}",
+      "id": 261
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 262
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 263
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 264
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 265
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 266
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 267
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 268
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 269
+    },
+    {
+      "message": "{\"waterlavel\":4.870000}",
+      "id": 270
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 271
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 272
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 273
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 274
+    },
+    {
+      "message": "{\"waterlavel\":5.010000}",
+      "id": 275
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 276
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 277
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 278
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 279
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 280
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 281
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 282
+    },
+    {
+      "message": "{\"waterlavel\":4.120000}",
+      "id": 283
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 284
+    },
+    {
+      "message": "{\"waterlavel\":3.700000}",
+      "id": 285
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 286
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 287
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 288
+    },
+    {
+      "message": "{\"waterlavel\":0.140000}",
+      "id": 289
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 290
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 291
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 292
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 293
+    },
+    {
+      "message": "{\"waterlavel\":3.700000}",
+      "id": 294
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 295
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 296
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 297
+    },
+    {
+      "message": "{\"waterlavel\":158.530000}",
+      "id": 298
+    },
+    {
+      "message": "{\"waterlavel\":160.180000}",
+      "id": 299
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 300
+    },
+    {
+      "message": "{\"waterlavel\":224.940000}",
+      "id": 301
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 302
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 303
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 304
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 305
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 306
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 307
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 308
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 309
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 310
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 311
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 312
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 313
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 314
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 315
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 316
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 317
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 318
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 319
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 320
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 321
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 322
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 323
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 324
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 325
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 326
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 327
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 328
+    },
+    {
+      "message": "{\"waterlavel\":5.830000}",
+      "id": 329
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 330
+    },
+    {
+      "message": "{\"waterlavel\":5.830000}",
+      "id": 331
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 332
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 333
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 334
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 335
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 336
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 337
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 338
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 339
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 340
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 341
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 342
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 343
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 344
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 345
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 346
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 347
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 348
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 349
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 350
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 351
+    },
+    {
+      "message": "{\"waterlavel\":5.830000}",
+      "id": 352
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 353
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 354
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 355
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 356
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 357
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 358
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 359
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 360
+    },
+    {
+      "message": "{\"waterlavel\":3.700000}",
+      "id": 361
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 362
+    },
+    {
+      "message": "{\"waterlavel\":217.390000}",
+      "id": 363
+    },
+    {
+      "message": "{\"waterlavel\":217.260000}",
+      "id": 364
+    },
+    {
+      "message": "{\"waterlavel\":217.670000}",
+      "id": 365
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 366
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 367
+    },
+    {
+      "message": "{\"waterlavel\":2.540000}",
+      "id": 368
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 369
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 370
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 371
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 372
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 373
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 374
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 375
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 376
+    },
+    {
+      "message": "{\"waterlavel\":4.120000}",
+      "id": 377
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 378
+    },
+    {
+      "message": "{\"waterlavel\":3.770000}",
+      "id": 379
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 380
+    },
+    {
+      "message": "{\"waterlavel\":4.870000}",
+      "id": 381
+    },
+    {
+      "message": "{\"waterlavel\":4.600000}",
+      "id": 382
+    },
+    {
+      "message": "{\"waterlavel\":4.870000}",
+      "id": 383
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 384
+    },
+    {
+      "message": "{\"waterlavel\":3.770000}",
+      "id": 385
+    },
+    {
+      "message": "{\"waterlavel\":225.350000}",
+      "id": 386
+    },
+    {
+      "message": "{\"waterlavel\":223.770000}",
+      "id": 387
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 388
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 389
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 390
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 391
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 392
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 393
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 394
+    },
+    {
+      "message": "{\"waterlavel\":3.290000}",
+      "id": 395
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 396
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 397
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 398
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 399
+    },
+    {
+      "message": "{\"waterlavel\":3.770000}",
+      "id": 400
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 401
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 402
+    },
+    {
+      "message": "{\"waterlavel\":3.360000}",
+      "id": 403
+    },
+    {
+      "message": "{\"waterlavel\":4.180000}",
+      "id": 404
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 405
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 406
+    },
+    {
+      "message": "{\"waterlavel\":3.290000}",
+      "id": 407
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 408
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 409
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 410
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 411
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 412
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 413
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 414
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 415
+    },
+    {
+      "message": "{\"waterlavel\":6.110000}",
+      "id": 416
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 417
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 418
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 419
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 420
+    },
+    {
+      "message": "{\"waterlavel\":5.830000}",
+      "id": 421
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 422
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 423
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 424
+    },
+    {
+      "message": "{\"waterlavel\":4.870000}",
+      "id": 425
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 426
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 427
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 428
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 429
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 430
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 431
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 432
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 433
+    },
+    {
+      "message": "{\"waterlavel\":4.120000}",
+      "id": 434
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 435
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 436
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 437
+    },
+    {
+      "message": "{\"waterlavel\":210.050000}",
+      "id": 438
+    },
+    {
+      "message": "{\"waterlavel\":188.380000}",
+      "id": 439
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 440
+    },
+    {
+      "message": "{\"waterlavel\":4.870000}",
+      "id": 441
+    },
+    {
+      "message": "{\"waterlavel\":6.110000}",
+      "id": 442
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 443
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 444
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 445
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 446
+    },
+    {
+      "message": "{\"waterlavel\":4.870000}",
+      "id": 447
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 448
+    },
+    {
+      "message": "{\"waterlavel\":4.120000}",
+      "id": 449
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 450
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 451
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 452
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 453
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 454
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 455
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 456
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 457
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 458
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 459
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 460
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 461
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 462
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 463
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 464
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 465
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 466
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 467
+    },
+    {
+      "message": "{\"waterlavel\":6.520000}",
+      "id": 468
+    },
+    {
+      "message": "{\"waterlavel\":6.110000}",
+      "id": 469
+    },
+    {
+      "message": "{\"waterlavel\":6.520000}",
+      "id": 470
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 471
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 472
+    },
+    {
+      "message": "{\"waterlavel\":5.830000}",
+      "id": 473
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 474
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 475
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 476
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 477
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 478
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 479
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 480
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 481
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 482
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 483
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 484
+    },
+    {
+      "message": "{\"waterlavel\":6.110000}",
+      "id": 485
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 486
+    },
+    {
+      "message": "{\"waterlavel\":4.120000}",
+      "id": 487
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 488
+    },
+    {
+      "message": "{\"waterlavel\":3.360000}",
+      "id": 489
+    },
+    {
+      "message": "{\"waterlavel\":222.060000}",
+      "id": 490
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 491
+    },
+    {
+      "message": "{\"waterlavel\":178.290000}",
+      "id": 492
+    },
+    {
+      "message": "{\"waterlavel\":178.290000}",
+      "id": 493
+    },
+    {
+      "message": "{\"waterlavel\":178.290000}",
+      "id": 494
+    },
+    {
+      "message": "{\"waterlavel\":178.220000}",
+      "id": 495
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 496
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 497
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 498
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 499
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 500
+    },
+    {
+      "message": "{\"waterlavel\":177.880000}",
+      "id": 501
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 502
+    },
+    {
+      "message": "{\"waterlavel\":178.290000}",
+      "id": 503
+    },
+    {
+      "message": "{\"waterlavel\":178.630000}",
+      "id": 504
+    },
+    {
+      "message": "{\"waterlavel\":178.290000}",
+      "id": 505
+    },
+    {
+      "message": "{\"waterlavel\":178.360000}",
+      "id": 506
+    },
+    {
+      "message": "{\"waterlavel\":178.290000}",
+      "id": 507
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 508
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 509
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 510
+    },
+    {
+      "message": "{\"waterlavel\":178.700000}",
+      "id": 511
+    },
+    {
+      "message": "{\"waterlavel\":163.470000}",
+      "id": 512
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 513
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 514
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 515
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 516
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 517
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 518
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 519
+    },
+    {
+      "message": "{\"waterlavel\":142.000000}",
+      "id": 520
+    },
+    {
+      "message": "{\"waterlavel\":142.000000}",
+      "id": 521
+    },
+    {
+      "message": "{\"waterlavel\":141.590000}",
+      "id": 522
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 523
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 524
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 525
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 526
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 527
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 528
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 529
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 530
+    },
+    {
+      "message": "{\"waterlavel\":141.660000}",
+      "id": 531
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 532
+    },
+    {
+      "message": "{\"waterlavel\":141.320000}",
+      "id": 533
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 534
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 535
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 536
+    },
+    {
+      "message": "{\"waterlavel\":142.960000}",
+      "id": 537
+    },
+    {
+      "message": "{\"waterlavel\":142.000000}",
+      "id": 538
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 539
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 540
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 541
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 542
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 543
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 544
+    },
+    {
+      "message": "{\"waterlavel\":141.660000}",
+      "id": 545
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 546
+    },
+    {
+      "message": "{\"waterlavel\":142.830000}",
+      "id": 547
+    },
+    {
+      "message": "{\"waterlavel\":141.180000}",
+      "id": 548
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 549
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 550
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 551
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 552
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 553
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 554
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 555
+    },
+    {
+      "message": "{\"waterlavel\":141.320000}",
+      "id": 556
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 557
+    },
+    {
+      "message": "{\"waterlavel\":144.880000}",
+      "id": 558
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 559
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 560
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 561
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 562
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 563
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 564
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 565
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 566
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 567
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 568
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 569
+    },
+    {
+      "message": "{\"waterlavel\":141.590000}",
+      "id": 570
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 571
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 572
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 573
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 574
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 575
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 576
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 577
+    },
+    {
+      "message": "{\"waterlavel\":142.000000}",
+      "id": 578
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 579
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 580
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 581
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 582
+    },
+    {
+      "message": "{\"waterlavel\":141.660000}",
+      "id": 583
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 584
+    },
+    {
+      "message": "{\"waterlavel\":141.320000}",
+      "id": 585
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 586
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 587
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 588
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 589
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 590
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 591
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 592
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 593
+    },
+    {
+      "message": "{\"waterlavel\":142.000000}",
+      "id": 594
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 595
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 596
+    },
+    {
+      "message": "{\"waterlavel\":141.320000}",
+      "id": 597
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 598
+    },
+    {
+      "message": "{\"waterlavel\":141.590000}",
+      "id": 599
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 600
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 601
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 602
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 603
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 604
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 605
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 606
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 607
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 608
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 609
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 610
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 611
+    },
+    {
+      "message": "{\"waterlavel\":141.660000}",
+      "id": 612
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 613
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 614
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 615
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 616
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 617
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 618
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 619
+    },
+    {
+      "message": "{\"waterlavel\":142.760000}",
+      "id": 620
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 621
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 622
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 623
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 624
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 625
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 626
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 627
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 628
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 629
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 630
+    },
+    {
+      "message": "{\"waterlavel\":142.000000}",
+      "id": 631
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 632
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 633
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 634
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 635
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 636
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 637
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 638
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 639
+    },
+    {
+      "message": "{\"waterlavel\":141.660000}",
+      "id": 640
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 641
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 642
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 643
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 644
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 645
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 646
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 647
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 648
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 649
+    },
+    {
+      "message": "{\"waterlavel\":141.660000}",
+      "id": 650
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 651
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 652
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 653
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 654
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 655
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 656
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 657
+    },
+    {
+      "message": "{\"waterlavel\":143.580000}",
+      "id": 658
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 659
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 660
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 661
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 662
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 663
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 664
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 665
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 666
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 667
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 668
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 669
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 670
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 671
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 672
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 673
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 674
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 675
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 676
+    },
+    {
+      "message": "{\"waterlavel\":142.410000}",
+      "id": 677
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 678
+    },
+    {
+      "message": "{\"waterlavel\":142.550000}",
+      "id": 679
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 680
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 681
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 682
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 683
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 684
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 685
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 686
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 687
+    },
+    {
+      "message": "{\"waterlavel\":142.550000}",
+      "id": 688
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 689
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 690
+    },
+    {
+      "message": "{\"waterlavel\":142.550000}",
+      "id": 691
+    },
+    {
+      "message": "{\"waterlavel\":142.410000}",
+      "id": 692
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 693
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 694
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 695
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 696
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 697
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 698
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 699
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 700
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 701
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 702
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 703
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 704
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 705
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 706
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 707
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 708
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 709
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 710
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 711
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 712
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 713
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 714
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 715
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 716
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 717
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 718
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 719
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 720
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 721
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 722
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 723
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 724
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 725
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 726
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 727
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 728
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 729
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 730
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 731
+    },
+    {
+      "message": "{\"waterlavel\":141.320000}",
+      "id": 732
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 733
+    },
+    {
+      "message": "{\"waterlavel\":142.830000}",
+      "id": 734
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 735
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 736
+    },
+    {
+      "message": "{\"waterlavel\":142.410000}",
+      "id": 737
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 738
+    },
+    {
+      "message": "{\"waterlavel\":142.550000}",
+      "id": 739
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 740
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 741
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 742
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 743
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 744
+    },
+    {
+      "message": "{\"waterlavel\":142.890000}",
+      "id": 745
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 746
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 747
+    },
+    {
+      "message": "{\"waterlavel\":142.830000}",
+      "id": 748
+    },
+    {
+      "message": "{\"waterlavel\":141.590000}",
+      "id": 749
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 750
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 751
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 752
+    },
+    {
+      "message": "{\"waterlavel\":141.730000}",
+      "id": 753
+    },
+    {
+      "message": "{\"waterlavel\":142.550000}",
+      "id": 754
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 755
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 756
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 757
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 758
+    },
+    {
+      "message": "{\"waterlavel\":141.590000}",
+      "id": 759
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 760
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 761
+    },
+    {
+      "message": "{\"waterlavel\":143.170000}",
+      "id": 762
+    },
+    {
+      "message": "{\"waterlavel\":143.240000}",
+      "id": 763
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 764
+    },
+    {
+      "message": "{\"waterlavel\":142.480000}",
+      "id": 765
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 766
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 767
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 768
+    },
+    {
+      "message": "{\"waterlavel\":142.070000}",
+      "id": 769
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 770
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 771
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 772
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 773
+    },
+    {
+      "message": "{\"waterlavel\":142.140000}",
+      "id": 774
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 775
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 776
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 777
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 778
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 779
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 780
+    },
+    {
+      "message": "{\"waterlavel\":117.240000}",
+      "id": 781
+    },
+    {
+      "message": "{\"waterlavel\":115.520000}",
+      "id": 782
+    },
+    {
+      "message": "{\"waterlavel\":115.110000}",
+      "id": 783
+    },
+    {
+      "message": "{\"waterlavel\":115.870000}",
+      "id": 784
+    },
+    {
+      "message": "{\"waterlavel\":115.110000}",
+      "id": 785
+    },
+    {
+      "message": "{\"waterlavel\":114.700000}",
+      "id": 786
+    },
+    {
+      "message": "{\"waterlavel\":115.520000}",
+      "id": 787
+    },
+    {
+      "message": "{\"waterlavel\":115.520000}",
+      "id": 788
+    },
+    {
+      "message": "{\"waterlavel\":115.180000}",
+      "id": 789
+    },
+    {
+      "message": "{\"waterlavel\":115.110000}",
+      "id": 790
+    },
+    {
+      "message": "{\"waterlavel\":115.180000}",
+      "id": 791
+    },
+    {
+      "message": "{\"waterlavel\":115.110000}",
+      "id": 792
+    },
+    {
+      "message": "{\"waterlavel\":114.840000}",
+      "id": 793
+    },
+    {
+      "message": "{\"waterlavel\":115.520000}",
+      "id": 794
+    },
+    {
+      "message": "{\"waterlavel\":115.660000}",
+      "id": 795
+    },
+    {
+      "message": "{\"waterlavel\":115.450000}",
+      "id": 796
+    },
+    {
+      "message": "{\"waterlavel\":115.590000}",
+      "id": 797
+    },
+    {
+      "message": "{\"waterlavel\":115.520000}",
+      "id": 798
+    },
+    {
+      "message": "{\"waterlavel\":115.660000}",
+      "id": 799
+    },
+    {
+      "message": "{\"waterlavel\":115.520000}",
+      "id": 800
+    },
+    {
+      "message": "{\"waterlavel\":115.870000}",
+      "id": 801
+    },
+    {
+      "message": "{\"waterlavel\":115.110000}",
+      "id": 802
+    },
+    {
+      "message": "{\"waterlavel\":115.110000}",
+      "id": 803
+    },
+    {
+      "message": "{\"waterlavel\":115.110000}",
+      "id": 804
+    },
+    {
+      "message": "{\"waterlavel\":115.930000}",
+      "id": 805
+    },
+    {
+      "message": "{\"waterlavel\":114.700000}",
+      "id": 806
+    },
+    {
+      "message": "{\"waterlavel\":113.670000}",
+      "id": 807
+    },
+    {
+      "message": "{\"waterlavel\":114.840000}",
+      "id": 808
+    },
+    {
+      "message": "{\"waterlavel\":115.110000}",
+      "id": 809
+    },
+    {
+      "message": "{\"waterlavel\":116.410000}",
+      "id": 810
+    },
+    {
+      "message": "{\"waterlavel\":125.200000}",
+      "id": 811
+    },
+    {
+      "message": "{\"waterlavel\":131.230000}",
+      "id": 812
+    },
+    {
+      "message": "{\"waterlavel\":131.230000}",
+      "id": 813
+    },
+    {
+      "message": "{\"waterlavel\":131.570000}",
+      "id": 814
+    },
+    {
+      "message": "{\"waterlavel\":6.590000}",
+      "id": 815
+    },
+    {
+      "message": "{\"waterlavel\":134.390000}",
+      "id": 816
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 817
+    },
+    {
+      "message": "{\"waterlavel\":136.100000}",
+      "id": 818
+    },
+    {
+      "message": "{\"waterlavel\":151.810000}",
+      "id": 819
+    },
+    {
+      "message": "{\"waterlavel\":151.400000}",
+      "id": 820
+    },
+    {
+      "message": "{\"waterlavel\":152.090000}",
+      "id": 821
+    },
+    {
+      "message": "{\"waterlavel\":153.390000}",
+      "id": 822
+    },
+    {
+      "message": "{\"waterlavel\":157.710000}",
+      "id": 823
+    },
+    {
+      "message": "{\"waterlavel\":167.380000}",
+      "id": 824
+    },
+    {
+      "message": "{\"waterlavel\":175.750000}",
+      "id": 825
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 826
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 827
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 828
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 829
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 830
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 831
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 832
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 833
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 834
+    },
+    {
+      "message": "{\"waterlavel\":190.300000}",
+      "id": 835
+    },
+    {
+      "message": "{\"waterlavel\":182.270000}",
+      "id": 836
+    },
+    {
+      "message": "{\"waterlavel\":5.280000}",
+      "id": 837
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 838
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 839
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 840
+    },
+    {
+      "message": "{\"waterlavel\":226.590000}",
+      "id": 841
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 842
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 843
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 844
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 845
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 846
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 847
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 848
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 849
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 850
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 851
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 852
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 853
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 854
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 855
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 856
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 857
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 858
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 859
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 860
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 861
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 862
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 863
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 864
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 865
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 866
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 867
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 868
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 869
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 870
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 871
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 872
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 873
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 874
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 875
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 876
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 877
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 878
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 879
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 880
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 881
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 882
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 883
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 884
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 885
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 886
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 887
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 888
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 889
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 890
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 891
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 892
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 893
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 894
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 895
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 896
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 897
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 898
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 899
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 900
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 901
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 902
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 903
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 904
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 905
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 906
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 907
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 908
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 909
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 910
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 911
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 912
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 913
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 914
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 915
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 916
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 917
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 918
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 919
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 920
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 921
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 922
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 923
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 924
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 925
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 926
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 927
+    },
+    {
+      "message": "{\"waterlavel\":184.810000}",
+      "id": 928
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 929
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 930
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 931
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 932
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 933
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 934
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 935
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 936
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 937
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 938
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 939
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 940
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 941
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 942
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 943
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 944
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 945
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 946
+    },
+    {
+      "message": "{\"waterlavel\":184.810000}",
+      "id": 947
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 948
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 949
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 950
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 951
+    },
+    {
+      "message": "{\"waterlavel\":185.490000}",
+      "id": 952
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 953
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 954
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 955
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 956
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 957
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 958
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 959
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 960
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 961
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 962
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 963
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 964
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 965
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 966
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 967
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 968
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 969
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 970
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 971
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 972
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 973
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 974
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 975
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 976
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 977
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 978
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 979
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 980
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 981
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 982
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 983
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 984
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 985
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 986
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 987
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 988
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 989
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 990
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 991
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 992
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 993
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 994
+    },
+    {
+      "message": "{\"waterlavel\":185.080000}",
+      "id": 995
+    },
+    {
+      "message": "{\"waterlavel\":185.220000}",
+      "id": 996
+    },
+    {
+      "message": "{\"waterlavel\":185.150000}",
+      "id": 997
+    },
+    {
+      "message": "{\"waterlavel\":177.540000}",
+      "id": 998
+    },
+    {
+      "message": "{\"waterlavel\":183.920000}",
+      "id": 999
+    },
+    {
+      "message": "{\"waterlavel\":183.850000}",
+      "id": 1000
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 1001
+    },
+    {
+      "message": "{\"waterlavel\":184.810000}",
+      "id": 1002
+    },
+    {
+      "message": "{\"waterlavel\":184.740000}",
+      "id": 1003
+    },
+    {
+      "message": "{\"waterlavel\":184.810000}",
+      "id": 1004
+    },
+    {
+      "message": "{\"waterlavel\":183.850000}",
+      "id": 1005
+    },
+    {
+      "message": "{\"waterlavel\":184.330000}",
+      "id": 1006
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 1007
+    },
+    {
+      "message": "{\"waterlavel\":184.670000}",
+      "id": 1008
+    },
+    {
+      "message": "{\"waterlavel\":184.810000}",
+      "id": 1009
+    },
+    {
+      "message": "{\"waterlavel\":6.110000}",
+      "id": 1010
+    },
+    {
+      "message": "{\"waterlavel\":208.130000}",
+      "id": 1011
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 1012
+    },
+    {
+      "message": "{\"waterlavel\":122.380000}",
+      "id": 1013
+    },
+    {
+      "message": "{\"waterlavel\":122.790000}",
+      "id": 1014
+    },
+    {
+      "message": "{\"waterlavel\":121.630000}",
+      "id": 1015
+    },
+    {
+      "message": "{\"waterlavel\":122.380000}",
+      "id": 1016
+    },
+    {
+      "message": "{\"waterlavel\":121.560000}",
+      "id": 1017
+    },
+    {
+      "message": "{\"waterlavel\":122.790000}",
+      "id": 1018
+    },
+    {
+      "message": "{\"waterlavel\":122.790000}",
+      "id": 1019
+    },
+    {
+      "message": "{\"waterlavel\":121.560000}",
+      "id": 1020
+    },
+    {
+      "message": "{\"waterlavel\":122.380000}",
+      "id": 1021
+    },
+    {
+      "message": "{\"waterlavel\":122.310000}",
+      "id": 1022
+    },
+    {
+      "message": "{\"waterlavel\":122.310000}",
+      "id": 1023
+    },
+    {
+      "message": "{\"waterlavel\":122.790000}",
+      "id": 1024
+    },
+    {
+      "message": "{\"waterlavel\":121.560000}",
+      "id": 1025
+    },
+    {
+      "message": "{\"waterlavel\":122.860000}",
+      "id": 1026
+    },
+    {
+      "message": "{\"waterlavel\":122.450000}",
+      "id": 1027
+    },
+    {
+      "message": "{\"waterlavel\":121.900000}",
+      "id": 1028
+    },
+    {
+      "message": "{\"waterlavel\":122.730000}",
+      "id": 1029
+    },
+    {
+      "message": "{\"waterlavel\":121.560000}",
+      "id": 1030
+    },
+    {
+      "message": "{\"waterlavel\":122.040000}",
+      "id": 1031
+    },
+    {
+      "message": "{\"waterlavel\":122.790000}",
+      "id": 1032
+    },
+    {
+      "message": "{\"waterlavel\":121.970000}",
+      "id": 1033
+    },
+    {
+      "message": "{\"waterlavel\":121.900000}",
+      "id": 1034
+    },
+    {
+      "message": "{\"waterlavel\":122.310000}",
+      "id": 1035
+    },
+    {
+      "message": "{\"waterlavel\":122.860000}",
+      "id": 1036
+    },
+    {
+      "message": "{\"waterlavel\":122.790000}",
+      "id": 1037
+    },
+    {
+      "message": "{\"waterlavel\":122.860000}",
+      "id": 1038
+    },
+    {
+      "message": "{\"waterlavel\":122.380000}",
+      "id": 1039
+    },
+    {
+      "message": "{\"waterlavel\":121.630000}",
+      "id": 1040
+    },
+    {
+      "message": "{\"waterlavel\":119.910000}",
+      "id": 1041
+    },
+    {
+      "message": "{\"waterlavel\":122.040000}",
+      "id": 1042
+    },
+    {
+      "message": "{\"waterlavel\":122.380000}",
+      "id": 1043
+    },
+    {
+      "message": "{\"waterlavel\":122.310000}",
+      "id": 1044
+    },
+    {
+      "message": "{\"waterlavel\":121.900000}",
+      "id": 1045
+    },
+    {
+      "message": "{\"waterlavel\":122.790000}",
+      "id": 1046
+    },
+    {
+      "message": "{\"waterlavel\":122.790000}",
+      "id": 1047
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 1048
+    },
+    {
+      "message": "{\"waterlavel\":145.290000}",
+      "id": 1049
+    },
+    {
+      "message": "{\"waterlavel\":145.290000}",
+      "id": 1050
+    },
+    {
+      "message": "{\"waterlavel\":144.060000}",
+      "id": 1051
+    },
+    {
+      "message": "{\"waterlavel\":145.290000}",
+      "id": 1052
+    },
+    {
+      "message": "{\"waterlavel\":144.880000}",
+      "id": 1053
+    },
+    {
+      "message": "{\"waterlavel\":123.550000}",
+      "id": 1054
+    },
+    {
+      "message": "{\"waterlavel\":123.210000}",
+      "id": 1055
+    },
+    {
+      "message": "{\"waterlavel\":123.620000}",
+      "id": 1056
+    },
+    {
+      "message": "{\"waterlavel\":124.030000}",
+      "id": 1057
+    },
+    {
+      "message": "{\"waterlavel\":123.890000}",
+      "id": 1058
+    },
+    {
+      "message": "{\"waterlavel\":146.670000}",
+      "id": 1059
+    },
+    {
+      "message": "{\"waterlavel\":147.280000}",
+      "id": 1060
+    },
+    {
+      "message": "{\"waterlavel\":147.280000}",
+      "id": 1061
+    },
+    {
+      "message": "{\"waterlavel\":146.940000}",
+      "id": 1062
+    },
+    {
+      "message": "{\"waterlavel\":147.350000}",
+      "id": 1063
+    },
+    {
+      "message": "{\"waterlavel\":146.940000}",
+      "id": 1064
+    },
+    {
+      "message": "{\"waterlavel\":146.870000}",
+      "id": 1065
+    },
+    {
+      "message": "{\"waterlavel\":146.940000}",
+      "id": 1066
+    },
+    {
+      "message": "{\"waterlavel\":146.870000}",
+      "id": 1067
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1068
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1069
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1070
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1071
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1072
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1073
+    },
+    {
+      "message": "{\"waterlavel\":146.050000}",
+      "id": 1074
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1075
+    },
+    {
+      "message": "{\"waterlavel\":145.710000}",
+      "id": 1076
+    },
+    {
+      "message": "{\"waterlavel\":146.460000}",
+      "id": 1077
+    },
+    {
+      "message": "{\"waterlavel\":145.710000}",
+      "id": 1078
+    },
+    {
+      "message": "{\"waterlavel\":174.720000}",
+      "id": 1079
+    },
+    {
+      "message": "{\"waterlavel\":174.720000}",
+      "id": 1080
+    },
+    {
+      "message": "{\"waterlavel\":208.890000}",
+      "id": 1081
+    },
+    {
+      "message": "{\"waterlavel\":175.480000}",
+      "id": 1082
+    },
+    {
+      "message": "{\"waterlavel\":144.060000}",
+      "id": 1083
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1084
+    },
+    {
+      "message": "{\"waterlavel\":145.710000}",
+      "id": 1085
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1086
+    },
+    {
+      "message": "{\"waterlavel\":146.870000}",
+      "id": 1087
+    },
+    {
+      "message": "{\"waterlavel\":146.870000}",
+      "id": 1088
+    },
+    {
+      "message": "{\"waterlavel\":146.050000}",
+      "id": 1089
+    },
+    {
+      "message": "{\"waterlavel\":146.940000}",
+      "id": 1090
+    },
+    {
+      "message": "{\"waterlavel\":146.940000}",
+      "id": 1091
+    },
+    {
+      "message": "{\"waterlavel\":146.940000}",
+      "id": 1092
+    },
+    {
+      "message": "{\"waterlavel\":146.460000}",
+      "id": 1093
+    },
+    {
+      "message": "{\"waterlavel\":146.460000}",
+      "id": 1094
+    },
+    {
+      "message": "{\"waterlavel\":146.460000}",
+      "id": 1095
+    },
+    {
+      "message": "{\"waterlavel\":146.460000}",
+      "id": 1096
+    },
+    {
+      "message": "{\"waterlavel\":146.600000}",
+      "id": 1097
+    },
+    {
+      "message": "{\"waterlavel\":146.530000}",
+      "id": 1098
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1099
+    },
+    {
+      "message": "{\"waterlavel\":146.050000}",
+      "id": 1100
+    },
+    {
+      "message": "{\"waterlavel\":146.460000}",
+      "id": 1101
+    },
+    {
+      "message": "{\"waterlavel\":145.710000}",
+      "id": 1102
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1103
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1104
+    },
+    {
+      "message": "{\"waterlavel\":146.120000}",
+      "id": 1105
+    },
+    {
+      "message": "{\"waterlavel\":6.930000}",
+      "id": 1106
+    },
+    {
+      "message": "{\"waterlavel\":127.180000}",
+      "id": 1107
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 1108
+    },
+    {
+      "message": "{\"waterlavel\":93.840000}",
+      "id": 1109
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 1110
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 1111
+    },
+    {
+      "message": "{\"waterlavel\":112.300000}",
+      "id": 1112
+    },
+    {
+      "message": "{\"waterlavel\":126.020000}",
+      "id": 1113
+    },
+    {
+      "message": "{\"waterlavel\":116.410000}",
+      "id": 1114
+    },
+    {
+      "message": "{\"waterlavel\":118.400000}",
+      "id": 1115
+    },
+    {
+      "message": "{\"waterlavel\":137.750000}",
+      "id": 1116
+    },
+    {
+      "message": "{\"waterlavel\":129.590000}",
+      "id": 1117
+    },
+    {
+      "message": "{\"waterlavel\":129.240000}",
+      "id": 1118
+    },
+    {
+      "message": "{\"waterlavel\":128.010000}",
+      "id": 1119
+    },
+    {
+      "message": "{\"waterlavel\":127.600000}",
+      "id": 1120
+    },
+    {
+      "message": "{\"waterlavel\":126.770000}",
+      "id": 1121
+    },
+    {
+      "message": "{\"waterlavel\":127.600000}",
+      "id": 1122
+    },
+    {
+      "message": "{\"waterlavel\":127.660000}",
+      "id": 1123
+    },
+    {
+      "message": "{\"waterlavel\":126.430000}",
+      "id": 1124
+    },
+    {
+      "message": "{\"waterlavel\":126.360000}",
+      "id": 1125
+    },
+    {
+      "message": "{\"waterlavel\":128.420000}",
+      "id": 1126
+    },
+    {
+      "message": "{\"waterlavel\":126.700000}",
+      "id": 1127
+    },
+    {
+      "message": "{\"waterlavel\":127.250000}",
+      "id": 1128
+    },
+    {
+      "message": "{\"waterlavel\":126.360000}",
+      "id": 1129
+    },
+    {
+      "message": "{\"waterlavel\":127.660000}",
+      "id": 1130
+    },
+    {
+      "message": "{\"waterlavel\":128.420000}",
+      "id": 1131
+    },
+    {
+      "message": "{\"waterlavel\":127.180000}",
+      "id": 1132
+    },
+    {
+      "message": "{\"waterlavel\":128.010000}",
+      "id": 1133
+    },
+    {
+      "message": "{\"waterlavel\":127.600000}",
+      "id": 1134
+    },
+    {
+      "message": "{\"waterlavel\":128.010000}",
+      "id": 1135
+    },
+    {
+      "message": "{\"waterlavel\":128.830000}",
+      "id": 1136
+    },
+    {
+      "message": "{\"waterlavel\":128.760000}",
+      "id": 1137
+    },
+    {
+      "message": "{\"waterlavel\":128.760000}",
+      "id": 1138
+    },
+    {
+      "message": "{\"waterlavel\":127.600000}",
+      "id": 1139
+    },
+    {
+      "message": "{\"waterlavel\":127.600000}",
+      "id": 1140
+    },
+    {
+      "message": "{\"waterlavel\":128.010000}",
+      "id": 1141
+    },
+    {
+      "message": "{\"waterlavel\":127.600000}",
+      "id": 1142
+    },
+    {
+      "message": "{\"waterlavel\":126.430000}",
+      "id": 1143
+    },
+    {
+      "message": "{\"waterlavel\":162.990000}",
+      "id": 1144
+    },
+    {
+      "message": "{\"waterlavel\":162.990000}",
+      "id": 1145
+    },
+    {
+      "message": "{\"waterlavel\":161.420000}",
+      "id": 1146
+    },
+    {
+      "message": "{\"waterlavel\":154.210000}",
+      "id": 1147
+    },
+    {
+      "message": "{\"waterlavel\":149.820000}",
+      "id": 1148
+    },
+    {
+      "message": "{\"waterlavel\":149.690000}",
+      "id": 1149
+    },
+    {
+      "message": "{\"waterlavel\":41.090000}",
+      "id": 1150
+    },
+    {
+      "message": "{\"waterlavel\":147.700000}",
+      "id": 1151
+    },
+    {
+      "message": "{\"waterlavel\":150.100000}",
+      "id": 1152
+    },
+    {
+      "message": "{\"waterlavel\":150.100000}",
+      "id": 1153
+    },
+    {
+      "message": "{\"waterlavel\":149.690000}",
+      "id": 1154
+    },
+    {
+      "message": "{\"waterlavel\":149.690000}",
+      "id": 1155
+    },
+    {
+      "message": "{\"waterlavel\":150.100000}",
+      "id": 1156
+    },
+    {
+      "message": "{\"waterlavel\":150.230000}",
+      "id": 1157
+    },
+    {
+      "message": "{\"waterlavel\":148.860000}",
+      "id": 1158
+    },
+    {
+      "message": "{\"waterlavel\":149.690000}",
+      "id": 1159
+    },
+    {
+      "message": "{\"waterlavel\":150.100000}",
+      "id": 1160
+    },
+    {
+      "message": "{\"waterlavel\":146.530000}",
+      "id": 1161
+    },
+    {
+      "message": "{\"waterlavel\":187.480000}",
+      "id": 1162
+    },
+    {
+      "message": "{\"waterlavel\":181.520000}",
+      "id": 1163
+    },
+    {
+      "message": "{\"waterlavel\":181.860000}",
+      "id": 1164
+    },
+    {
+      "message": "{\"waterlavel\":181.930000}",
+      "id": 1165
+    },
+    {
+      "message": "{\"waterlavel\":181.860000}",
+      "id": 1166
+    },
+    {
+      "message": "{\"waterlavel\":178.220000}",
+      "id": 1167
+    },
+    {
+      "message": "{\"waterlavel\":164.640000}",
+      "id": 1168
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1169
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1170
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1171
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1172
+    },
+    {
+      "message": "{\"waterlavel\":165.530000}",
+      "id": 1173
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1174
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1175
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1176
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1177
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1178
+    },
+    {
+      "message": "{\"waterlavel\":164.640000}",
+      "id": 1179
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1180
+    },
+    {
+      "message": "{\"waterlavel\":164.640000}",
+      "id": 1181
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1182
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1183
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1184
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1185
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1186
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1187
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1188
+    },
+    {
+      "message": "{\"waterlavel\":164.640000}",
+      "id": 1189
+    },
+    {
+      "message": "{\"waterlavel\":165.460000}",
+      "id": 1190
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1191
+    },
+    {
+      "message": "{\"waterlavel\":165.050000}",
+      "id": 1192
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1193
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1194
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1195
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1196
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1197
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1198
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1199
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1200
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1201
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1202
+    },
+    {
+      "message": "{\"waterlavel\":164.640000}",
+      "id": 1203
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1204
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1205
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1206
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1207
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1208
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1209
+    },
+    {
+      "message": "{\"waterlavel\":164.570000}",
+      "id": 1210
+    },
+    {
+      "message": "{\"waterlavel\":165.050000}",
+      "id": 1211
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1212
+    },
+    {
+      "message": "{\"waterlavel\":164.640000}",
+      "id": 1213
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1214
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1215
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1216
+    },
+    {
+      "message": "{\"waterlavel\":165.530000}",
+      "id": 1217
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1218
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1219
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1220
+    },
+    {
+      "message": "{\"waterlavel\":165.460000}",
+      "id": 1221
+    },
+    {
+      "message": "{\"waterlavel\":165.530000}",
+      "id": 1222
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1223
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1224
+    },
+    {
+      "message": "{\"waterlavel\":165.050000}",
+      "id": 1225
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1226
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1227
+    },
+    {
+      "message": "{\"waterlavel\":165.530000}",
+      "id": 1228
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1229
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1230
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1231
+    },
+    {
+      "message": "{\"waterlavel\":165.460000}",
+      "id": 1232
+    },
+    {
+      "message": "{\"waterlavel\":164.570000}",
+      "id": 1233
+    },
+    {
+      "message": "{\"waterlavel\":165.530000}",
+      "id": 1234
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1235
+    },
+    {
+      "message": "{\"waterlavel\":165.460000}",
+      "id": 1236
+    },
+    {
+      "message": "{\"waterlavel\":165.050000}",
+      "id": 1237
+    },
+    {
+      "message": "{\"waterlavel\":165.530000}",
+      "id": 1238
+    },
+    {
+      "message": "{\"waterlavel\":165.810000}",
+      "id": 1239
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1240
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1241
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1242
+    },
+    {
+      "message": "{\"waterlavel\":165.460000}",
+      "id": 1243
+    },
+    {
+      "message": "{\"waterlavel\":165.460000}",
+      "id": 1244
+    },
+    {
+      "message": "{\"waterlavel\":165.050000}",
+      "id": 1245
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1246
+    },
+    {
+      "message": "{\"waterlavel\":165.050000}",
+      "id": 1247
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1248
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1249
+    },
+    {
+      "message": "{\"waterlavel\":165.530000}",
+      "id": 1250
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1251
+    },
+    {
+      "message": "{\"waterlavel\":165.530000}",
+      "id": 1252
+    },
+    {
+      "message": "{\"waterlavel\":165.050000}",
+      "id": 1253
+    },
+    {
+      "message": "{\"waterlavel\":165.050000}",
+      "id": 1254
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1255
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1256
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1257
+    },
+    {
+      "message": "{\"waterlavel\":165.530000}",
+      "id": 1258
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1259
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1260
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1261
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1262
+    },
+    {
+      "message": "{\"waterlavel\":164.980000}",
+      "id": 1263
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1264
+    },
+    {
+      "message": "{\"waterlavel\":165.050000}",
+      "id": 1265
+    },
+    {
+      "message": "{\"waterlavel\":165.390000}",
+      "id": 1266
+    },
+    {
+      "message": "{\"waterlavel\":80.950000}",
+      "id": 1267
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 1268
+    },
+    {
+      "message": "{\"waterlavel\":82.660000}",
+      "id": 1269
+    },
+    {
+      "message": "{\"waterlavel\":83.070000}",
+      "id": 1270
+    },
+    {
+      "message": "{\"waterlavel\":82.940000}",
+      "id": 1271
+    },
+    {
+      "message": "{\"waterlavel\":80.470000}",
+      "id": 1272
+    },
+    {
+      "message": "{\"waterlavel\":83.760000}",
+      "id": 1273
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 1274
+    },
+    {
+      "message": "{\"waterlavel\":3.360000}",
+      "id": 1275
+    },
+    {
+      "message": "{\"waterlavel\":2.130000}",
+      "id": 1276
+    },
+    {
+      "message": "{\"waterlavel\":87.810000}",
+      "id": 1277
+    },
+    {
+      "message": "{\"waterlavel\":143.310000}",
+      "id": 1278
+    },
+    {
+      "message": "{\"waterlavel\":143.720000}",
+      "id": 1279
+    },
+    {
+      "message": "{\"waterlavel\":155.380000}",
+      "id": 1280
+    },
+    {
+      "message": "{\"waterlavel\":155.380000}",
+      "id": 1281
+    },
+    {
+      "message": "{\"waterlavel\":155.380000}",
+      "id": 1282
+    },
+    {
+      "message": "{\"waterlavel\":208.750000}",
+      "id": 1283
+    },
+    {
+      "message": "{\"waterlavel\":209.230000}",
+      "id": 1284
+    },
+    {
+      "message": "{\"waterlavel\":209.570000}",
+      "id": 1285
+    },
+    {
+      "message": "{\"waterlavel\":209.300000}",
+      "id": 1286
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 1287
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 1288
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 1289
+    },
+    {
+      "message": "{\"waterlavel\":5.690000}",
+      "id": 1290
+    },
+    {
+      "message": "{\"waterlavel\":5.830000}",
+      "id": 1291
+    },
+    {
+      "message": "{\"waterlavel\":5.760000}",
+      "id": 1292
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 1293
+    },
+    {
+      "message": "{\"waterlavel\":6.110000}",
+      "id": 1294
+    },
+    {
+      "message": "{\"waterlavel\":6.170000}",
+      "id": 1295
+    },
+    {
+      "message": "{\"waterlavel\":5.350000}",
+      "id": 1296
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 1297
+    },
+    {
+      "message": "{\"waterlavel\":4.940000}",
+      "id": 1298
+    },
+    {
+      "message": "{\"waterlavel\":89.390000}",
+      "id": 1299
+    },
+    {
+      "message": "{\"waterlavel\":226.170000}",
+      "id": 1300
+    },
+    {
+      "message": "{\"waterlavel\":229.810000}",
+      "id": 1301
+    },
+    {
+      "message": "{\"waterlavel\":229.810000}",
+      "id": 1302
+    },
+    {
+      "message": "{\"waterlavel\":219.660000}",
+      "id": 1303
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 1304
+    },
+    {
+      "message": "{\"waterlavel\":182.750000}",
+      "id": 1305
+    },
+    {
+      "message": "{\"waterlavel\":75.320000}",
+      "id": 1306
+    },
+    {
+      "message": "{\"waterlavel\":77.720000}",
+      "id": 1307
+    },
+    {
+      "message": "{\"waterlavel\":218.080000}",
+      "id": 1308
+    },
+    {
+      "message": "{\"waterlavel\":218.080000}",
+      "id": 1309
+    },
+    {
+      "message": "{\"waterlavel\":3.700000}",
+      "id": 1310
+    },
+    {
+      "message": "{\"waterlavel\":3.770000}",
+      "id": 1311
+    },
+    {
+      "message": "{\"waterlavel\":4.600000}",
+      "id": 1312
+    },
+    {
+      "message": "{\"waterlavel\":4.530000}",
+      "id": 1313
+    },
+    {
+      "message": "{\"waterlavel\":208.060000}",
+      "id": 1314
+    },
+    {
+      "message": "{\"waterlavel\":0.000000}",
+      "id": 1315
+    },
+    {
+      "message": "{\"waterlavel\":171.290000}",
+      "id": 1316
+    },
+    {
+      "message": "{\"waterlavel\":232.900000}",
+      "id": 1317
+    },
+    {
+      "message": "{\"waterlavel\":256.630000}",
+      "id": 1318
+    },
+    {
+      "message": "{\"waterlavel\":256.630000}",
+      "id": 1319
+    },
+    {
+      "message": "{\"waterlavel\":256.630000}",
+      "id": 1320
+    },
+    {
+      "message": "{\"waterlavel\":235.370000}",
+      "id": 1321
+    },
+    {
+      "message": "{\"waterlavel\":0.000000}",
+      "id": 1322
+    },
+    {
+      "message": "{\"waterlavel\":0.410000}",
+      "id": 1323
+    },
+    {
+      "message": "{\"waterlavel\":0.410000}",
+      "id": 1324
+    },
+    {
+      "message": "{\"waterlavel\":166.490000}",
+      "id": 1325
+    },
+    {
+      "message": "{\"waterlavel\":120.320000}",
+      "id": 1326
+    },
+    {
+      "message": "{\"waterlavel\":193.110000}",
+      "id": 1327
+    },
+    {
+      "message": "{\"waterlavel\":141.590000}",
+      "id": 1328
+    },
+    {
+      "message": "{\"waterlavel\":83.350000}",
+      "id": 1329
+    },
+    {
+      "message": "{\"waterlavel\":79.640000}",
+      "id": 1330
+    },
+    {
+      "message": "{\"waterlavel\":136.790000}",
+      "id": 1331
+    },
+    {
+      "message": "{\"waterlavel\":137.540000}",
+      "id": 1332
+    },
+    {
+      "message": "{\"waterlavel\":136.790000}",
+      "id": 1333
+    },
+    {
+      "message": "{\"waterlavel\":138.020000}",
+      "id": 1334
+    },
+    {
+      "message": "{\"waterlavel\":136.790000}",
+      "id": 1335
+    },
+    {
+      "message": "{\"waterlavel\":137.950000}",
+      "id": 1336
+    },
+    {
+      "message": "{\"waterlavel\":137.200000}",
+      "id": 1337
+    },
+    {
+      "message": "{\"waterlavel\":189.060000}",
+      "id": 1338
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1339
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1340
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1341
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1342
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1343
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1344
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1345
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1346
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1347
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1348
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1349
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1350
+    },
+    {
+      "message": "{\"waterlavel\":189.470000}",
+      "id": 1351
+    },
+    {
+      "message": "{\"waterlavel\":52.340000}",
+      "id": 1352
+    },
+    {
+      "message": "{\"waterlavel\":0.000000}",
+      "id": 1353
+    }
+  ]
+}
